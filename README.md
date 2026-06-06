@@ -1,4 +1,4 @@
-This project investigates portfolio optimisation under a quantitative finance framework using historical S&P 500 market data.
+**This project investigates portfolio optimisation under a quantitative finance framework using historical S&P 500 market data.**
 
 The study compares classical optimisation methods with modern metaheuristic and machine learning approaches, including Mean-Variance Optimisation (MVO), Simulated Annealing (SA), Genetic Algorithms (GA), and Bayesian Neural Networks (BNN).
 
@@ -6,7 +6,8 @@ Performance is evaluated using Sharpe Ratio, cumulative return, volatility, maxi
 
 The objective is to assess the trade-off between theoretical optimality, robustness, and practical investment performance in realistic financial environments.
 
-Key Findings
+**Key Findings**
+
 • Genetic Algorithms consistently achieved strong risk-adjusted returns.
 
 • Simulated Annealing provided competitive solutions but showed greater variability across runs.
@@ -17,7 +18,8 @@ Key Findings
 
 • Different optimisation approaches exhibited distinct trade-offs between return, volatility, diversification, and runtime.
 
-Skills Demonstrated
+**Skills Demonstrated**
+
 - Portfolio Optimisation
 - Quantitative Finance
 - Sharpe Ratio Analysis
@@ -27,7 +29,7 @@ Skills Demonstrated
 - Python
 - Machine Learning
 
-Topics
+**Topics**
 quantitative-finance
 portfolio-optimization
 genetic-algorithm
